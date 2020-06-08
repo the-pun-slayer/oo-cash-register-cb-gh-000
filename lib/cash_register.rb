@@ -1,3 +1,3 @@
-class Cash_register
+class CashRegister
   
   attr_accessor
